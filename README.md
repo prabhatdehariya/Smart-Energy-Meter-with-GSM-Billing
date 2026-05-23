@@ -46,4 +46,4 @@ The system measures electricity consumption and sends billing information throug
 - Online billing system
 
 ## Author
-Prabhat Dehariya
+Prabhat Dehariya Electronics and Telecommunication Engineer
