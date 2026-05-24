@@ -30,10 +30,10 @@ The system measures electricity consumption and sends billing information throug
 4. GSM module sends SMS bill notification.
 
 ## Circuit Diagram
-(Add image here)
+internal structure meter gsm.jpeg
 
 ## Output
-(Add project images here)
+output hardware gsm meter.jpeg
 
 ## Applications
 - Smart homes
